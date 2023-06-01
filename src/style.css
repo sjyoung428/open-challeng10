@@ -7,7 +7,7 @@ body {
 
 .snow {
   color: #fff;
-  font-size: 48px;
+  font-size: 18px;
   position: absolute;
   top: -24px;
   animation: fall 10s linear infinite;

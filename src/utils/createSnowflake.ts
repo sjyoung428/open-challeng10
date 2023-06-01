@@ -12,7 +12,7 @@ export const createSnowflake = () => {
   snow.style.animationDelay = `${delay}s`;
   snow.style.opacity = String(opacity);
   snow.style.animationDuration = `${duration}s`;
-  snow.innerText = "*";
+  snow.innerText = "❄";
 
   return { snow };
 };
